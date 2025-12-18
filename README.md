@@ -24,7 +24,7 @@ To use these commands in your project:
      ```
 
 3. **Verify installation**
-   - The commands should now be available in Cursor when you type `@` followed by the command name
+   - The commands should now be available in Cursor when you type `/` followed by the command name
 
 ## Available Commands
 
